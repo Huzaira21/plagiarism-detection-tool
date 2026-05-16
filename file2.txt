@@ -1,0 +1,1 @@
+Artificial intelligence is changing modern education. Students use smart systems for learning and research. Machine learning helps in data analysis and prediction. Our group project focuses on plagiarism detection techniques. We are developing a smart plagiarism checker using C++ programming. The system compares words, sentences, and document similarity.

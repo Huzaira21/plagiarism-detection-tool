@@ -1,0 +1,1 @@
+Artificial intelligence is transforming today's education. Learners use intelligent platforms for study and investigation. Machine learning supports information analysis and forecasting. Our team assignment focuses on plagiarism detection methods. We are creating an intelligent plagiarism checker using C++ coding. The application compares terms, statements, and file similarity.
